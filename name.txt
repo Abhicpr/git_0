@@ -1,0 +1,5 @@
+//"MasaiSchool"
+
+//git add filrname
+// git commit -m "first repo"
+// git push origin master
